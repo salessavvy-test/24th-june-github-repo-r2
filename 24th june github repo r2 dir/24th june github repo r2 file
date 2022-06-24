@@ -1,0 +1,4 @@
+/Users/sumanthvangala/workspace/scio/WORKSPACE:46:23: in <toplevel>
+  /private/var/tmp/_bazel_sumanthvangala/1d2e6b341b3454628c5d2971c0cdfcfe/external/io_bazel_rules_go/go/private/sdk.bzl:264:24: in go_register_toolchains
+  /private/var/tmp/_bazel_sumanthvangala/1d2e6b341b3454628c5d2971c0cdfcfe/external/io_bazel_rules_go/go/private/sdk.bzl:50:17: in go_host_sdk
+Repository rule _go_host_sdk defined at:
